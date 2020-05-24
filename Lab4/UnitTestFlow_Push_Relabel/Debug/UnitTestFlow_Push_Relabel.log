@@ -1,0 +1,23 @@
+﻿  UnitTestFlow_Push_Relabel.cpp
+C:\Users\ROG\source\repos\Flow_Push_Relabel\Flow.h(32,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ROG\source\repos\Flow_Push_Relabel\Flow.h(83,22): warning C4101: cap: неиспользованная локальная переменная
+C:\Users\ROG\source\repos\Flow_Push_Relabel\Flow.h(112,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ROG\source\repos\Flow_Push_Relabel\Flow.h(124,19): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\ROG\source\repos\Flow_Push_Relabel\List.h(90,41): warning C4018: <=: несоответствие типов со знаком и без знака
+C:\Users\ROG\source\repos\Flow_Push_Relabel\List.h(89): message : во время компиляции функции-члена класс шаблон "T List<T>::at(size_t)"
+C:\Users\ROG\source\repos\Flow_Push_Relabel\List.h(89): message :         with
+C:\Users\ROG\source\repos\Flow_Push_Relabel\List.h(89): message :         [
+C:\Users\ROG\source\repos\Flow_Push_Relabel\List.h(89): message :             T=int
+C:\Users\ROG\source\repos\Flow_Push_Relabel\List.h(89): message :         ]
+C:\Users\ROG\source\repos\Flow_Push_Relabel\Flow.h(111): message : выполняется компиляция ссылки на экземпляр шаблон функции "T List<T>::at(size_t)"
+C:\Users\ROG\source\repos\Flow_Push_Relabel\Flow.h(111): message :         with
+C:\Users\ROG\source\repos\Flow_Push_Relabel\Flow.h(111): message :         [
+C:\Users\ROG\source\repos\Flow_Push_Relabel\Flow.h(111): message :             T=int
+C:\Users\ROG\source\repos\Flow_Push_Relabel\Flow.h(111): message :         ]
+C:\Users\ROG\source\repos\Flow_Push_Relabel\Flow.h(104): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<T1>"
+C:\Users\ROG\source\repos\Flow_Push_Relabel\Flow.h(104): message :         with
+C:\Users\ROG\source\repos\Flow_Push_Relabel\Flow.h(104): message :         [
+C:\Users\ROG\source\repos\Flow_Push_Relabel\Flow.h(104): message :             T1=int
+C:\Users\ROG\source\repos\Flow_Push_Relabel\Flow.h(104): message :         ]
+C:\Users\ROG\source\repos\Flow_Push_Relabel\List.h(99,2): warning C4018: <: несоответствие типов со знаком и без знака
+  UnitTestFlow_Push_Relabel.vcxproj -> C:\Users\ROG\source\repos\Flow_Push_Relabel\Debug\UnitTestFlow_Push_Relabel.dll
